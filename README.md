@@ -1,7 +1,7 @@
 ##  Leandro Kavgias
-**`desnvolvedor fullstack`**
+**`desenvolvedor fullstack`**
 
-Me chamo Leandro Duarte Kavgias, tenho 23 anos, sou natural de niteroí, concluí o ensino médio no Salesiano, estou cursando sistemas de informação na unilasalle.
+Me chamo Leandro Duarte Kavgias, tenho 24 anos, sou natural de Niterói, concluí o ensino médio no Salesiano, estou cursando sistemas de informação na unilasalle.
 ---
 <p align="left">
     <a href="https://github.com/kavgias?tab=repositories&sort=stargazers">
