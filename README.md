@@ -1,9 +1,9 @@
 ##  Leandro Kavgias
 **`desenvolvedor fullstack`**
 
-## Olá! 👋
-Sou Leandro Duarte Kavgias, estudante de Sistemas de Informação na Unilasalle e desenvolvedor Full Stack em formação.
-Tenho interesse no desenvolvimento de aplicações web utilizando Java, JavaScript e Python, buscando criar soluções escaláveis e aprender continuamente novas tecnologias..
+## 🎯 Objetivo
+
+Atualmente estou em busca de uma oportunidade de estágio na área de Desenvolvimento de Software para colocar em prática meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais..
 ---
 <p align="left">
     <a href="https://github.com/LeandroKavgiass?tab=repositories&sort=stargazers">
