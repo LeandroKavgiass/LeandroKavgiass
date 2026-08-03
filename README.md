@@ -4,25 +4,25 @@
 Me chamo Leandro Duarte Kavgias, tenho 24 anos, sou natural de Niterói, concluí o ensino médio no Salesiano, estou cursando sistemas de informação na unilasalle.
 ---
 <p align="left">
-    <a href="https://github.com/kavgias?tab=repositories&sort=stargazers">
+    <a href="https://github.com/LeandroKavgiass?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Kavgias?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LeandroKavgiass?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/kavgias?tab=followers">
+    <a href="https://github.com/LeandroKavgiass?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Kavgias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LeandroKavgiass?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
      <a href="https://www.linkedin.com/in/leandro-kavgias-a68702248/">
         <img 
             alt="Seguidores" 
             title="Me siga no linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Kavgias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LeandroKavgiass?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
         />
     </a>
   <p/>
